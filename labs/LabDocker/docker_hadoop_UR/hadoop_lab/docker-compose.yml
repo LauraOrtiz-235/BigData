@@ -1,0 +1,51 @@
+services:
+
+  namenode:
+    build: .
+    hostname: namenode-master 
+    ports:
+      - 9870:9870
+      - 50030:50030 
+    volumes:
+      - ./data:/data
+    command: bash -c "hdfs namenode -format -force;
+                      hdfs namenode" 
+                      #storage_opt:
+                      #size: '3G'
+    logging:
+        driver: json-file
+        options:
+            max-size: "50m"
+
+  yarnmaster:
+    build: .
+    hostname: yarnmaster
+    ports:
+      - 8088:8088
+      - 19888:19888
+    links:
+      - "namenode:namenode-master"
+    command: yarn resourcemanager 
+      #storage_opt:
+      #  size: '4G'
+
+  datanode:
+    build: .
+    links:
+      - "namenode:namenode-master"
+      - "yarnmaster:yarnmaster"
+    command: bash -c "hdfs --daemon start datanode;
+                      yarn nodemanager"
+                      #storage_opt:
+                      #size: '4G'
+
+  hadoop:
+    build: .
+    volumes:
+      - ./data:/data
+    links:
+      - "namenode:namenode-master"
+      - "yarnmaster:yarnmaster"
+    command: /bin/bash 
+      #storage_opt:
+      #size: '4G'

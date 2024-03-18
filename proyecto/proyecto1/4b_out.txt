@@ -1,0 +1,1 @@
+"Average tweet length"	76.0344

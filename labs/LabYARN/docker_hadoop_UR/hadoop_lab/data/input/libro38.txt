@@ -1,0 +1,2634 @@
+﻿The Project Gutenberg eBook of Suomen Kansan Vanhoja Runoja ynnä myös Nykyisempiä Lauluja 5
+    
+This ebook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this ebook or online
+at www.gutenberg.org. If you are not located in the United States,
+you will have to check the laws of the country where you are located
+before using this eBook.
+
+Title: Suomen Kansan Vanhoja Runoja ynnä myös Nykyisempiä Lauluja 5
+
+
+Compiler: Zacharias Topelius
+
+Release date: February 21, 2024 [eBook #73006]
+
+Language: Finnish
+
+Original publication: Helsinki: J. Simeliuksen leski, 1831
+
+Credits: Tuula Temonen
+
+
+*** START OF THE PROJECT GUTENBERG EBOOK SUOMEN KANSAN VANHOJA RUNOJA YNNÄ MYÖS NYKYISEMPIÄ LAULUJA 5 ***
+
+
+
+
+
+SUOMEN KANSAN VANHOJA RUNOJA YNNÄ MYÖS NYKYISEMPIÄ LAULUJA V
+
+Koonnut ja pränttiin antanut
+
+
+Z. TOPELIUS
+
+Läänin Lääkäri ja Ritari
+
+
+
+
+
+Helsingin kaupungisa,
+präntätty J. Simeliuksen lesken tykönä,
+1831.
+
+
+
+
+
+
+       Sillä päivät jatketaan
+       Wirsillä vähät oluet.
+
+
+
+
+Sisällä-pito:
+
+Esi-puhe
+Z. Topelius vanh. elämäkerta
+
+Vanhoja Runoja:
+
+Wäinämöinen ongella.
+Paavin opin aikuinen Pääsiäis-juttu.
+Kalman Sanat.
+Kalman Sanat (toisin).
+Hevosta laitumelle laskiessa.
+Tulen Synty.
+Tulen Synty (toisin).
+Sikaliskon Synty.
+Maon Sanat.
+Maon Sanat (toisin).
+Hammas-maon Sanat.
+Ähkyn Sanat.
+Rauan Sanat.
+Veren Tyrehys-Loihto.
+Ryyhynnäisen Sanat.
+Waapsahaisen Lumous.
+Painajaisen Sanat.
+Siikasen Sanat.
+Siikasen Sanat (toisin).
+Loihto.
+Kiven Sanat.
+Kiven Sanat (toisin).
+Kiven Sanat (vielä toisin).
+Rupiaman Sanat.
+Lapsen Saamisen Loihto.
+Hiveltymän Sanat.
+Karhun Lumous.
+Suen Lumous.
+Pakkaselle.
+Pesemä-Sanat.
+Riien Sanat.
+Viinan Loihto.
+Puun Sanat.
+Löylyn lumous.
+Lapselle.
+Runo.
+Maata pannessa.
+
+Nykyisempiä Lauluja:
+
+Talonpojan Säädystä.
+Hää-Runo.
+Kummin toivotus.
+
+
+
+
+Esi-puhe
+
+
+Täsä jätetään nyt viimeinen vihko Suomen Kansan Runolauluja. Iloiten
+olen havainnut nämät laulut mieluisesti kunnioitettavilta Maanmiehiltä
+vastaan otettunna, — ja on myös tämä mielisuosio ollut suloinen ehkä
+ainoa vaivani palkinto, kuin olen jo kolmattakymmentä ajastaikaa näitä
+aineita keksinyt ja kokoillut. — Harvasa, eikä pian ollenkana, löytyypi
+enään Suomen rannalla kokonaisia ja puhtaita vanhanaikoisia lauluja.
+Uusi oppi ja uusi valo ovat karkottaneet sen viattoman hämärän, josa
+laulajat ja runot parahiten menestyivät. Mitä täältä vielä löytään,
+on rikkinäisiä muinoisen runo-ajan jäänöksiä, netkin uuden aikaisilla
+sanoilla ja ajatuksilla pilattuja. Yksi ainoa maanpaikka, sekin
+Suomen piirin ulkopuolella, tai muutama pitäjäs Arkkangelin Läänisä,
+erinomattain nimitettävä Vuokkiniemen Pitäjäs, säilyttää vielä vanhat
+tavat, ja vanhan urosväen jutut vilpitönnä ja puhtaanna. Siellä veisaa
+vielä Väinämöisen ääni, siellä soipi vielä Kantele ja Sampo, [Sampo
+kuuluu olevan raudasta Kanteleen mukaan taottu soittokeino.] ja sieltä
+olen myös parahat Runoni kyllä monella huolella toimittanut. Ehkä
+lisäyksiä sieltä olisi toivosa odotettavia, täytyy kuitenkin työni
+päättää. Jos ikää Jumala suopi, mahtanevat nämät ja muut lisäykset
+edespäin ilmantua.
+
+Vijmeiseksi saan nöyrästi kiittää niitä Maanmiehiä, jotka näisä töisä
+ovat minua auttaneet, joista erinomattain nimitetään:
+
+Herra Lectori Magisteri C.N. Keckman Helsingin kaupungisa; Herra
+Hovirätin Assessori C.H. Asp Vaasasa; Herra Provasti Z. Forsman Vähäsä
+Kyrösä; Herra Kappalainen C. Saxa Suomus-Salmesa; Veljeni, Professori
+G. Toppelius Oulusa; Veljeni poika, Koulu-Pappi F.M. Toppelius Isosa
+Kyrösä.
+
+ _Z. Topelius_.
+
+       *       *       *       *       *
+
+Jouhten on koria-ääninen lintu. Greekanmaalla mainittiin muinen,
+että se, vähän ennen kuoltuansa, lauloi ihmeellisen suloisesti ja
+sydämmellisesti, josta vieläkin tavallinen on _Jouhtenen-lauluksi_
+nimittää, mitä joku, kuolemansa hetken lähestyesä, puhuu merkillisesti
+ja hartaasti. Niin sopii nyt sanoa Tohtori Topeliuksesta. Tämä
+esipuhe oli hänen juhlallinen Jouhtenen-laulunsa. Sillä hän ei
+elänyt kauvan sitä kirjotettuansa. Näkyy tosin koko näitten Runojen
+Ulosantaminen ikään kuin hänen hyvästi-jättönsä ja viimeinen äänensä.
+Tämän toimituksen kautta on myös hänen muistonsa aina viheriöittevä
+Suomenmaasa. Epäilemätä halajaa ittekukin tuta yhden niin kaivattavan
+Maanmiehen elämäkertaa, joka sentähden, anomuksen jälkeen hänen omalta
+rakkaalta Veljeltänsä toimitettu ja tänne lähetetty, Lukioille täsä
+jätetään.
+
+
+
+
+LÄÄNIN LÄÄKÄRIN, TOHTORIN JA RITARIN ZACHRIS TOPELIUKSEN ELÄMÄKERTA.
+
+
+Läänin Lääkäri, Tohtori ja Ritari Zachris Topelius syntyi Oulusa
+13:tenä p. Marraskuusa v. 1781. Hänen Isänsä oli edesmennyt Maalari ja
+Porvari samasa Kaupungisa Michael Topelius ja Äitinsä Maria Magdalena
+von Occlavisz. Näitten lapsista, jotka olivat yksitoistakymmentä,
+oli Hän yhdeksäs ja osotti jo lassa erinomasen vakuuden että myös
+järjen ja käsityksen, josta esimerkiksi mainittakoon seuraava
+tapaus. Seittemän eli kahdeksan vuoden ijäsä istui Hän kerran
+puolipäiväsella muutaman, suuremmasa arvosa pidetyn, Virkamiehen pöydän
+ääresä, vakaissa, yksitotissa ja hiljaissa; tästä syystä pilkattu
+muutamalta, läsnä olevalta leikki-kumppaniltansa, joka, aina suukko
+ja tokipuheinen, täsäkin tilasa sopimattomasti rähisi, vastasi tämä
+lapsi nuhtelevalla äänellä: "soisin minä sinunkin tietävän että ei
+ole sovelias aukasta suutansa kovin, ilvehellä ja rähistä ihmisten
+seuroisa, pöydän ääresä; sillä joka sen tekee, häntä pidetään, niin
+kuin myös ansaittet, tyhmänä eli siivotoinna". — Kaupungin koulun
+läpi käytyänsä meni Hän Turkuun, vähillä varoilla, mutta kauniilla
+todistuksilla, v. 1797, tehtiin siellä kohta Studentiksi; oli tästä
+lähen 2 vuotta lasten opettajana edesmennehen Provasti Appelgrenin
+luona, Muhoksesa, ja luopui sieltä v. 1799 Opetus-nuorukaisenensa
+Upsalan Akademiaan, josa Hän alkoi Lääkärin oppiin taivutella ittiänsä.
+Samana vuonna tehtiin Hän myös Kuninkaalliselta Lääkärin Seuralta
+(Collegium Medicum) Stockholmisa, Chirurgie Studeeraavaiseksi,
+lahjotettiin vireytensä tähden ansaitulla pienemmällä Kuninkaallisella
+kehotuspalkkiolla (Stipendium), joka oli 40 Riikintaaleria Bankkoa
+vuosittain, ja määrättiin v. 1801 Lääkärin Oppilaiseksi (Under-Läkare)
+suureen Sotalaivaan (Linieskepp) siinä Laivastosa, joka kesällä
+Karlskronasta ulosjuoksi Englannin Sota-Laivastoa vastaan sotimaan.
+— Sieltä takasin tultuansa etsi Hän uutterasti ja hartaasti
+rakastettua oppiansa sekä Upsalasa että Stockholmisa, kusa Hän
+Kuninkaallisesa Lazaretisa, Lasten synnytys-huoneesa ja muisa opin
+ja neuvon harjottamiseen määrätyisä tiluksisa uskollisest palveli
+ja työtä teki. — V. 1803 lähetetty Kuninkaalliselta Suomen Huoneen
+Hallituksen Seuralta Turusa sitä silloin uutta Suojelus-Rupulia
+istuttamaan täällä Pohjan perällä, josa silloin ankara Rupuli, Ruton
+tavoin, kulki ja paljo haaskasi väkiä, ymppäsi hän ynnä nuoremman
+veljensä kanssa, 7:mäsä Kuukaudesa lähes 900 lasta. — Täsä näytti
+tämä verratoin ja siunattu suojelus-ainet ihmeellisen hyödytyksensä.
+Sillä ehkä ei aika myödyttänyt kauvan kusakin paikasa viipyä, koska
+Tohtori vainajan täytyi Iinsalmen rajoilta, Siikajoen, Salon, Oulun,
+Muhoksen, Iin, Pudasjärven, Kuusamon, Kemin ja Rovaniemen Pitäjäin
+läpi jouvuttaa ittiänsä aina Kemijärveen, jos mieli estää kulkurupulin
+raatelevaista levenemistä, ja moni ympätty sen tähden ei tainnut
+niin tarkasti tulla peräänkattotuksi, kuin asia vaatii; menestyi
+kuitenkin, vainajamme ahkeruudella, ylhän Esivallan tarkotus, tämän
+siunatun aineen kautta, niin onnellisesti, että se ankara Tauti näisä
+tienoin tuli pian kokonaan, sinä vuonna, tukeutetuksi ja estetyksi.
+— Täsä Ammatisansa, jota vastaan sokeus ja yksinkertaisuus vielä
+nytkin luimistellen kohottavat päätänsä, oli Hällä monesa paikasa
+tila neuvoa ja ylös-valaista yksinkertasta kansaa, vaan erinomattain
+Kemijärvesä, josa se silloin mainio Noita ja Taikuri, Kallahan Vaara
+kovasti pani Suojelus-Rupulia vastaan, löysi hän vaivansa hedelmistä
+suuren huvituksen. Naurullisella mutta myös vaikuttavalla tavalla,
+josta jo, sekä Turun sen aikasisa tiedoisa, että nykysimmin Oulun
+Viikko-Sanomisa, on selitetty, teki Hän hänen kelvottomuutensa ja
+petollisuutensa selkiäksi ja silmin nähtäväksi, ja laski niin muodoin
+sen mainion ihmeitten tekiän niin suuren naurun, häpiän ja pilkan alle,
+että hänestä sen koemmin ei kukaan ole pitänyt mitään. — Aina ahkera
+tiedon ja taidon perään, oli se mistä laadusta tahansa, alkoi Vainaja
+jo näinä aikoina kokoilla kaikellaista tietoa Syntymä-maastansa, vaan
+erinomattain Suomen kielestä, jota Hän, aina kiittäin ja ylistäin,
+sangen rakkaana piti. — Vähästä arvosta, sanoi Hän, on se kansa, joka
+ei kieltänsä rakasta, sillä kieli on se suuri liitto, se vahva sidet,
+joka tekee Kansan Kansaksi, Valtakunnan vahvaksi; ja Suomen kaunista,
+taipuvaa ja suloista kieltä, kuka Maamme mies sitä ei kalliina
+pitäisi?] Näitä tarkottain kokoili Hän myös Sananlaskuja, kaikellaisia
+Puheenparsia ja Runoja, joita Hän suurella vaivalla peräänkuulusteli,
+suu-sanan jälkeen ylöskirjotti ja tuotti monasti Runoniekat aina
+synkistä sydänmaista, Arkkangelinkin Läänistä, omalla kostannuksellaan
+tykönsä, laulamaan Esivanhempain jälkeen jääneitä, polvi polvelta
+ainoastansa muiston kautta meille vielä säilyneitä lauluja, joista Hän
+toivoi paljon selitystä ja tietoa Heidän sekä Jumalan palveluksestansa
+että vanhanaikasesta olostansa ja viisaudestansa.
+
+V. 1804 tutkisteltiin ja lueteltiin Vainajamme uudestaan Stockholmisa
+ja määrättiin korkiampaan Stipendiumi luokkaan eli suuremman
+kehoituksen ansainneeksi, nimittäin 83 riksiä 16 skillinkiä vuosittain.
+— V. 1806 edesseisoi Hän Kaupungin Lääkärin virkaa Uudesa Carlebyysä
+eli Joensuun Kaupungisa ja muutettiin sieltä keväällä v. 1807 Maan
+Tohtorin Apulaiseksi Ouluun, josa Hän myös Lazaretin Lääkärin
+poisollesa muutamia kuukausia hänen Virkansa töitä toimitti. — Syksyllä
+samana vuonna, pääsi Hän jälleen Stockholmiin, meni Eläinten tautein
+parannus-keinoa oppimaan Lundin Akademiaan ja käväsi siltä myös
+Köpenhaminasa, Juutin Valtakunnan eli Danmarkin pääkaupungisa, Oppiinsa
+liisää pyytämään. — V. 1808 jätti Hän ittensä Stockholmisa viimisen
+tutkinnon alle Ihmisen Ruumiin ulkonaisten virhein parantamisen Opisa
+(Chirurgie), tehtiin niin muodoin kunnialla Chirurgie Magisteriksi, ja
+säättiin Lääkäriksi siinä pienesä Sota-laivastosa (skärgårds flottan),
+joka kesällä usiammisa paikoisa Venäjän Sotalaivastoa vastaan tappeli.
+Vainajan päiväkirja, joka valitettavasti on kateisa, tekisi tämän
+aikasista tapauksista huvittavan selityksen. Sodan jälkeen määrättiin
+Hän Köyhäin Lääkäriksi ja Suojelus-Rupulin istuttajaksi S. Catharinan
+Seurakunnasa Stockholmisa, josa taitavat käytöksensä virkansa töisä
+Hänelle tuottivat ansaitun rakkauden. — V. 1811 meni Hän uudestansa
+Upsalahan, osotti siellä taitoansa Ihmisen Ruumiin sisällisten tautein
+tuntemisen ja parantamisen opissa (Medicin), selitti täydellisesti
+siihen kuuluvat asian haarat, ja käytti kädestänsä julkisen tutkinnon
+alle, juttelemisen aineeksi, itteltänsä vaariin otetun, erinomaisen
+virhen, eli känsän näkösen, verta suunnattomasti vuotavan, sangen
+vaarallisen paiseen, jonka Hän jo v. 1804 oli yhden vaimon nenästä
+leikannut. [Observationes de Carcinoma casu illustratæ.] Hyvästi
+lopetetun asian perästä viivähti hän vielä Stockholmisa, josta Hän nyt
+kaivattuna erosi, vastaan otti uudestaan hänelle tarjotun Kaupungin
+Lääkärin viran Joensuun Kaupungisa ja määrättiin Keisarillisen
+Majesteetin Armollisimman Fullmahdin kautta v. 1812 myös Maan
+Lääkäriksi Jouensuun Kaupungin Maan Lääkärin Lääniin. V. 1813
+ylennettiin Hän Upsalasa, ehkä ei läsnä olevana, Tohtoriksi Tautein
+parantamisen opisa, ja kunnioitettiin v. 1819 taitonsa ja ahkeruutensa
+vuoksi viran toimituksisa Ritarin Arvolla St. Annan Tähtikunnan
+kolmannesa luokasa.
+
+Näin arvosa pidetty, ystävällisyydellä ja rakkaudella kohdattu ja
+erinomattain tuskan ja surman säikyttäisä kysytty ja nouttu ylehensä
+kaikkialle, nautitti nyt Vainajamme, raittiilla ruumiilla, ilon
+hyödyllisestä elämästänsä, onnen sekä huoneellisesta että ulkonaisesta
+menestyksestä, siunauksen virkansa töistä ja niin muodoin suodun
+palkinnon siitä suuresta vaivasta, jolla Hän, pian varatoinna, oli,
+vuotten kuluisa, ylhää taitoansa niin monelta haaralta kokoillut. —
+Mutta vaiheellinen on aika, huikentelevainen ja katoovainen Ihmisen
+elämä! — V. 1820 kulki Hän matkoillansa virkansa toimituksisa löyhän
+jään ylitte, putousi vetee, läpi-kastui, vilustui ja siinä meneysi,
+valitettavasti, monen viheljäisen tapoksi ja vahingoksi, hänen
+terveytensä.
+
+Sanomattoman tuskan ja vaivan alaissa laskeusi nyt tämä muitten
+hempiäs holhoja sairauden kovalle vuoteelle, ja se onnen ja riemun
+suloinen valo, joka tähän saakka, niin leppiäästi, oli hänen tiellensä
+paistanut, muutti nyt muotonsa yhtä äkkiä, surkian pimiäksi. —
+Ankaralta taudilta kovasti kiusattu, alasin puolin, kivun kautta,
+kokonaan hermotoinna ja halvattuna, vietti Hän kuitenkin vielä tällä
+tavalla, ylhällä kärsiväisyydellä kymmenkunnan vuotta, haeskellen
+turhaan apua ja lievitystä oppineemmilta, joitten tykö Hän suurella
+vaivalla antoi kuljettaa ittiänsä. Tämän onnettomuuden lisäksi tuli
+vielä, että hän, olletikkin viimisinä vuosina oli niin vähäkuulonen,
+että hänelle oli työläs muitten puheita kuulla, ja hän niin muodoin
+oli ikään kuun suljettu ulos ihmisten kanssakäymisestä, elikkä estetty
+sen iloa ja huvitusta täydellisesti nauttimasta. Aina hempiä ja
+auttavainen kaiken rasituksensa alla, josa täysi järki ja käsitys Häntä
+ei jättänyt, unhotti Hän usein oman onnettomuutensa, koska tuskansa
+välipäät sallivat neuvoa ja lohduttaa sairaita ja viheljäisiä, jotka
+joukottain, kaukaisistakin Maanhaaroista, lievitystä rukoillen, vielä
+nytkin Häntä piirittivät! sekä surullinen että sydämmestä liikuttava
+oli nähdä, kuin sairas sairaita holhoi, onnetoin onnettomia lohdutti;
+ja tätä teki vainaja aina viimiseen asti, paitti muutamia päiviä ennen
+loppuansa.
+
+Kalliille vaimollensa, rakkaille lapsillensa, jotka Hän Veljensä
+isälliseen vartioon heitti, viimisen hyvästin jätettyänsä, sammui tämä
+Lähimmäistensä ystävä 23:ntenä päiv. Tammikuusa v. 1831 hiljasesti,
+niin kuin hän alti oli elänyt ja kantoi nöyrällä sydämmellä, hartaalla
+mielellä, Luojallensa sen rakkauden kiitosuhrin, jota Hän eläisänsä
+aina oli pyytänyt harjottaa. — Kaivattuna seurattiin Hän hautaan, jonka
+partaalla moni kyyneleillä muisteli Hänen hyviä töitänsä ja sydämmestä
+todisti tämän Arkkunsa päälle pannun kirjotuksen:
+
+      Ehkä oman vaivasi alla nääntyvänä
+    olit sinä kuitenki, aina viimiseen asti,
+        Viheljäisten hempiäs holhoja.
+               Terve sinulle!
+             Rauha tomusi ylitte.
+
+Tohtori Topelius oli v. 1812 nainut edesmennehen Kauppamiehen Joseph
+Calamniuksen tyttären, Sophia Calamniuksen, joka Häntä sairautensa alla
+hempeimmällä rakkaudella väsymättömästi oli hoitanut; jo jälkeen jätti
+Zacharias nimisen pojan 13, ja tyttären, Johanna Sophia, 10 vuoden
+ijäsä.
+
+
+
+
+
+
+VANHOJA RUNOJA
+
+
+
+
+Väinämöinen ongella.
+
+
+    Tuopa Vanha Väinämöinen
+    Oli ongella olia,
+    Käsi-verkolla käviä
+    Nenäss' on utusen niemen.
+    Vapa vaskinen vapisi,
+    Hopioinen siima siuku
+    Onkiessa Väinämöisen.
+    "Tuli kala onkeheni,
+    Mie veän venoseheni,
+    Talun takra- pohjahani."  [toisin: talka-pohjahani]
+    Katseloovi,keäntelöövi;
+    Siliahk' on siikaseksi,
+    Haaliainen haukiseksi,
+    Suomuton lohen kalaksi,
+    Nenätön on ihmiseksi,   [toisin: Peärevätön ihmiseksi.]
+    Vyötön Väinän tyttöseksi.
+
+      Itse Vanha Väinämöinen
+    Itse nuin sanoiksi virkki:
+    "Kuin olis kotoset veitset,
+    "Eli miun halko-hakkurini,
+    "Lohi viploin viilläkseni,  [kappaleiksi.]
+    Lohi purstoin pannakseni."
+    Lohi loiskahti merehen
+    Kala kirjo-kammertihin.  [Toisin: Kala kirjo kimmeltäksi.]
+    Äsken peätänsä kohotti
+    Vihurilla viiennellä,
+    Kupahalla kuuennella,
+    Näytti jalkoa vasenta,
+    Oikieta olkapeätä
+    Aallolla yheksännellä,
+    Seitsemännellä selällä.
+    Itse virkki nuin saneli:
+    "Oi on vanha Väinämöinen,
+    Oi on hullu hulluuttasi,
+    Mieletön mielesi vähyyttä!
+    En ollu Lohi punanen,
+    Olin nuori Joukahainen,
+    Kut' on pyyit kuun ikäsi,
+    Puhki polvesi halasit,
+    Vaan et tuntenut piteä,
+    Emp' on sulle siksi tullut
+    Lohi viploin viilläksesi,
+    Lohi purstoin pannaksesi."
+
+      Itse Vanha Väinämöinen
+    Hän tuon sanoiksi virkki:
+    "Miksi sie miulle tulit?"
+    "Siksi mie sinulle tulin
+    Sinun sian levittäjäksi,
+    Sinun jalan jaksajaksi,   [riisujaksi.]
+    Paniaksi peän alasen.
+    Tulin Vanhalle varaksi,
+    Turvaksi tutisevalle." — —
+    — "Voi sie Nuori Joukahainen
+    Voi sie tulla toinen kerta!"
+
+      Tuopa Nuori Joukahainen
+    Itse nuin sanoiksi virkko:
+    "Arvoan valehtelian,
+    Ymmärtelen kielastajan;
+    En tule Vanhalle varaksi,
+    Turvaksi tutisevalle".
+
+      Itse Vanha Väinämöinen
+    Alla peän, pahalla mielin
+    Jo astu kotia kohti;
+    Emo ennätti kysyä,
+    Vaimo vanha tutkaella:
+    "Mit' olet paholla mielin,
+    Kaiken kallella Kypärin?"
+    Vaka Vanha Väinämöinen
+    Heti tuon sanoiksi virkki:
+    "Kuta pyyin kuun ikäni,
+    Mutt' en tuntenut piteä,
+    Piteäkö Väinen neittä."
+
+Toisesa Runosa on Joukahaisen siaan pantu Väinätär tahi Väinämöisen
+tytär, ehkä puheet ja juttu ovat molemmisa yhdenlaiset. — Tämä Runo on
+Vuokkiniemen Pitäjästä.
+
+
+
+
+Paavin Opin aikuinen Pääsiäis-juttu.
+
+
+    Jopa marja maalta huuti,
+    Puolukainen kankahalta:
+    Tuleppa Neiti Poimimahan,
+    Tina-rinta riipomahan,
+    Vyö-vaski valihtomaan,
+    Ennen kuin etona syöpi
+    Mato musta muikoaapi.
+
+      Neitsy Maria emonen,
+    Pyhä piika pikkarainen,
+    Vaimo valkian verinen
+    Viitiseksi, vaatiseksi,
+    Vaski pantohin paneksi,
+    Tina-vöihin tilkiteksi,
+    Valkeihin vaatteihin;
+    Otti suolta suo-petäjän,
+    Rämeheltä rasakan männyn,
+    Otti kartun kankahalta,
+    Sillä marjan maahan sorto,
+    Marjap'on lenteli päkeille,
+    Päkeiltä vyönsä päälle,
+    Vyönsä päältä leuallensa,
+    Leuallansa, huulellansa,
+    Huulellansa, kielellänsä,
+    Kieleltä keruksisihin,
+    Siitä vahtahan valahti.
+    Siitä tyyty, siitä täyty,
+    Siitä paksuksi panehen,
+    Siitä leviäksi liteli;
+    Kovin kantaavi kovoa
+    Vatan täyen vaikeata
+    Semo seihtemän keseä.
+    Sano siitä äitillensä:
+    "Käyppä kylpyä kylästä,
+    Saunoa sarajahalta."
+    Emo varsin vastoali:
+    "On talli Tapio-mäellä,
+    Hevon huone hongikossa,
+    Mihin lautta lapset saapi,
+    Tuli-portto pojat luopi,
+    Tuonne pentujen pesiin,
+    Sora-jouhen soimen päähän."
+
+    Maria matala neiti,
+    Pyhä piika pikkarainen
+    Meni talliin Tapio-mäellä,
+    Henkehen hyvän hevosen.
+    Itse noin sanoiksi virkki:
+    "Henkeäs hyvä hevonen,
+    Huokoas vetäjä varsa,
+    Kyly löyly lämpöseksi!"
+
+      Henkäsi hyvä hevonen,
+    Huokasi vetäjä varsa.
+    Maria matala neiti
+    Kylpi kylyn kyllältänsä,
+    Vatsan löylyn vallaltansa.
+    Saip' ou tuonne poikuonsa
+    Heinille kesä-tevoille.
+
+      Säilyttääpi poikoansa,
+    Kullaista omenoansa,
+    Hopeaista sauvaistansa,
+    Otti pojan polvillehen,
+    Lapsen lanne-puolillehen.
+    Rupesi päätään sukimaan,
+    Hamsiansa harjaamaan;
+    Suastansa pii pirahti,
+    Taimen taittu harjastansa.
+    Tavottip'on taimentansa,
+    Kato poika polviltahan,
+    Lapsi lanne-puoleltahan.
+    Maria matala neiti,
+    Pyhä piika pikkarainen
+    Itkiä kujerteloovi.
+
+      Ehtiellen hienot heinät,
+    Katellen kanervo-juuret,
+    _Tuli tie vastaan._
+    "Tiiätkö minun poikoani,
+    "Kullaista omenoani,
+    "Hopeaista sauvaistani?"
+
+    Niinpä tie vastasi:
+    "Enkä tiiä, enkä tunne.
+    Poikas' on minunki luonut
+    Kotin mustan käytäväksi,  [kengän]
+    Kannan karskuteltavaksi,
+    Ratsahin ajeltavaksi."
+
+      Ehtiellen hienot heinät
+    Kahtoon kanervo-juuret,
+    Kärppinä kivein lomat,
+    Oravina puien oksat,
+    _Tuli kuu vastaan._
+    "Oi kuu Jumalan luoma,
+    "Näitkö minun poikoani,
+    Kullaista omenoani,
+    Hopeaista sauvaistani?"
+
+      Niinpä kuu vastaeli:
+    "Enkä tiiä, enkä tunne.
+    "Poikas' on minunki luonut
+    Pakkasella paistamahan,
+    Tähtilöillä kimaltamahan,
+    Yksin öitä kulkemahan,
+    Päiviä makoamahan."
+
+       Ehtiellen hienot heinät,
+    Katellen kanervo-juuret,
+    Kärppinä kivein kolot,
+    Oravina puien oksat,
+    _Tuli päivä vastaan._
+    "Näitkö minun poikoani,
+    "Kullaista omenoani,
+    Hopeaista sauvaistani?"
+
+      Niin päivä vastaeli:
+    "Sekä tiiän, että tunnen:
+    Tuoll' on sinun poikasi,
+    Kultanen omenasi:
+    Pirulaiset piinatahan,
+    Paha valta vaivatahan,
+    Kahen kallion lomassa,
+    Paaet alla, paaet päällä,
+    Somerot syäntä vasten.  [Toisin: kesellä syäntä]
+    Sata on rautasta orihta,
+    Ne veti veressä silmin
+    Sinun pojan polosen päälle.
+    Sata on miestä miekallista,
+    Sata toinen miekatonta,
+    Ne veti veressä silmin
+    Sinun polosen pojan päälle."
+
+      "Oi Päivä, Jumalan luoma,
+    "Nouses koivun konkelolle,
+    Lepsähäs lepän rehuille,
+    Paistas kivet pehmiäksi,
+    Paateret vahtuna valuta,
+    Somerot veeksi vie!
+    Paista kerta hempesestä,
+    Toinen himmestä hiosta,
+    Kolmas on koko terältä;
+    Nukuttele nuiva kansa,
+    Painele väki pakanan,
+    Miehet miekkojen nojahan,
+    Vanhat sauvojen varohin,
+    Nosta Luoja kuolomasta,
+    Katomasta valta-kaikki!"
+
+      Tuo Päivyt, Jumalan luoma
+    Lenti päätöinnä kanana,
+    Siipi-puonna siuvotteli
+    Luojan hauvan partahilla.
+    Paisto kerta hempesestä,
+    Toinen himmestä hiosti,
+    Kolmas on koko terältä.
+    Nukutteli nuivan kansan
+    Paineli väen pakanan,
+    Miehet miekkojen nojahan
+    Vanhat sauvojen varohin.
+    "Nouses Luoja kuolomasta,
+    Hereä uneksimasta!"
+
+      Jo nousi Jumalan poika,
+    Astu Ilmarin pajahan.
+    "Mitäs on rautiot takovat,
+    Sepät Hiitten hilkuttavat?"
+    Niinpä siellä vastattihin:
+    "Miksis olet kovin osaava?"
+    — "Sentähen olen kovin osaava,
+    "Kauvon katon syöjän suuhun,
+    "Partahan palan purian."
+    — "Mintäs sull' on silmät suuret?"
+    — "Kasoin kantosen takana,
+    "Kilketin kiven takoa;
+    "Sentähen miull' on silmät suuret.
+    "Mitäs rautiot takovat"
+    Sepät Hiien hilkasovat?"
+    — "Luojalle kuristus-köyttä,
+    Vaan emme tokati mitellä,  [huomanneet]
+    Miten pitkä Luojan kaula,
+    Kuin on pitkä, kuin on paksu,
+    Kuin on poikelta leviä."
+
+      Heti Luoja vastaeli:
+    "Niin on pitkä, niin on paksu,
+    "Niin on poikelta leviä,
+    Kuin on kaulasi omasi.
+    Otas! minä mittaelen."
+
+      Anto Luojan mitellä
+    Tuota kauloa omoa.
+
+      "Empä mie lukkuhun lukitse
+    Enkä paina palkimehen,
+    Mittelenpä, määrelenpä:
+    Näin on paksu Luojan kaula
+    Näin on pitkä, näin on paksu
+    Näin on poikelta leviä."
+    Jopa nyt lukkuhun lukitsen,
+    Jopa painan palkimehen,
+    Kiven kiljasen kovaksi,
+    Rauvan karjun karkeaksi;
+    Perin peltohon sivalsin
+    Kannan kaivon kankahaseen.
+    Tuossa seiso sen ikäsi
+    Kuin ei kuuta, kuin ei päivää,
+    Kuin ei armast' aurinkota!"
+
+Tämän runon selitykseksi saadaan mainita, että Paavin aikana, koska
+Pyhä Raamattu oli outo kirja sekä Papeille että yhteiselle kansalle,
+opettivat Papit usein omia juttujansa, joille Raamatusa ei ole
+pienintäkään perustusta. Erinomattain Pääsiäis-juhlana, pitkän ja
+surullisen Paaston lopetettua, juteltiin sanankuuliain huviksi,
+monenlaisia ihmeellisiä satuja, jotka mieluisesti kuultiin, ja muistoon
+kätkettiin. Tainkaltaisia on joku, runoissa säilitettynä, meidän
+aikamme asti kulkeunut. Yksi näitä on myös tämä, Vuokkiniemen pitäjästä
+saatu, Runo, jolle täsä on annettu sia, että siitä niin selkiästi
+on nähtävä niiden aikain mielen laatu, ja kuinka peräti joutavilta
+jutuilta pimitetty heidän tietonsa Jumalasta ja Lunastuksesta oli.
+Onnelliset meidän aikamme, joina Jumalan Sanan valkeus on pimeyden
+turhat juorut hajottanut!
+
+
+
+
+Kalman Sanat.
+
+(Sotkamon Pitäjästä)
+
+
+    Kyröläisen kyntö-ruoska,
+    Manalaisen matka-sauva,
+    Ootkos kyytiä kysyvä,
+    Anova ajo-hevosta?
+    Kyllämä sulle kyytin annan,
+    Ajajan panen paremman,
+    Ota hiiestä hevosen,
+    Vuoresta valitun varsan,
+    Joll on suu sataa syltää,
+    Kita viittä kirves-vartta,
+    Jonk' on lampi lautasella,
+    Vesi selvä selkä-luilla,
+    Josta Noiat vettä juovat,
+    Tuli-kurkut kuihkoavat.
+    Tuonnemma sinun manaan
+    Kirkon kirjavan sivuun,
+    Terva- porstuan perään,
+    Sata-lauan lappioon,
+    Tuhat-lauan tutkameen;
+    Siell' on muutkin murha-miehet
+    Ikuiset pahan tekiät;
+             tahi mennä
+    Suurille sota-keoille,
+    Miesten tappo-tantereille;
+    Siell' on luutonta lihaa
+    Suonetonta pohkiota.
+    Syöä miehen nälkähäisen,
+    Haukata halun-alaisen: tahi mennä
+    Pohjan pitkään perään,
+    Lapin laajaan kylään,
+    Ylite puita, alate maita
+    Mennä Hongisa hohisten,
+    Petäisä peppuroien.
+    Ei täsä sinulle siaa,
+    Siankahan tarpehella,
+    Muunne muuttoos majaasi,
+    Ehtiös elin-kotisi!
+    Karvasta Kavon tekemän,
+    Emon tuoman ruumiista,
+    Immin antaman ihosta!
+    Liikku ennen Linnan portit,
+    Järkky rautaset saranat.
+
+
+
+
+Toisin.
+
+(Paavolan Kappelista, Siikajoen pitäjäsä.)
+
+
+    Kust' on pulma puuttununna,
+    Taikea tapahtununna?
+    Kivestäkö, kannostako,
+    Vaiko vanhosta siosta,
+    Tahi kalma-kartanosta?
+    Jos oot manni maasta nossut,
+    Manni maasta, peiko pellosta,
+    Manni maahan painukoon,
+    Peiko peltohon vajone;
+    Mene tuonne, kunne käsken:
+    Iki-mennehen ihoon,
+    Tuiki-tullehen ihoon,
+    Jost' et pääse päivinäsi,
+    Selviä sinä ikänä,
+    Kuuna Herran valkiana —!
+    Mene tuonne, kunne käsken
+    Pohjan pitkään perään,
+    Lapin laajaan kylään
+    Siell' on hirvet hirtettynä
+    Siell' on tarvaat tapettu.
+    Kuut' on kuusi leiviskätä,
+    Verta kymmenen venettä,
+    Lihaa sata saavin täyttä,
+    Syyä miehen nälkäisen,
+    Haukata halun- alaisen.
+    Mene tuonne, kunne käsken,
+    Pohjan pitkään perään,
+    Lapin laajaan kylään! — —
+    Kivut tuonne kiintykööt,
+    Vaivat tuonne vaipukoot
+    Kirkon kirjavan sivulle,
+    Sata-lauan lantehille,
+    Sata-malkasen malohon,
+    Siellä sinä sikiäs' siität,
+    Siellä lapses' kasvattelet. —
+    Siell' on luutonta lihaa,
+    Siell' on päätöntä kalaa,
+    Suonetonta pohkiota
+    Syyä miehen nälkähäisen,
+    Haukata halun-alaisen.
+    Mene tuonne, kunne käsken
+    Pohjan pitkään perään,
+    Lapin laajaan kylään:
+    Kivi on keskellä ketoa,
+    Reikä on keskellä kiviä;
+    Sinne minä kivut työnnän,
+    Sinne minä tuskat tungen,
+    Sinne tungen turmioita,
+    Sinne pakkaan pahoja.
+    Vaikka paljon pantasiin,
+    Määrätön mätittäsiin,
+    Ei kivi kipuja itke,
+    Paasi vaivoja valita.
+
+
+
+
+Hevosta laitumelle laskiessa.
+
+(Vuokkiniemen Pitäjästä.)
+
+
+    Miten silloin lauletaan
+    Ja kuten kujerretaan,
+    Kuin heitän hevon kevolle,
+    Lasken tamman tanterelle,
+    Lasken moahan marhaminnan,
+    Hietahan helyn hevosen,
+    Kesäsillä keykkä-mailla,
+    Suloisilla suojuksilla?
+    Mistäp' on anon apua?
+    Tuonn' on huuan huiahutan
+    Peäni peällä taivosella:
+    Voi Ukko Yli Jumala,
+    Voari vanha taivahainen
+    Hattaroien hallitsia!
+
+      Jos ei tuosta kyllä liene,
+    Tuonne on huuan huiahutan,
+    Korven kuuluhun kylähän:
+    Korven kultanen kuningas,
+    Salon koarron vaimo kaunis!
+    Kytes kiinni koiriasi,   [kytke]
+    Rauta-vitjohin rakenna
+    Tammisen talahan alla,   [juurakon]
+    Jott' ei kahle katkieisi,
+    Eli puoli pois tulisi.
+
+      Ohtoseni, Lyllyseni
+    Tunge turposi kulohon,
+    Mätä peäsi mättähäseen!
+    Jos ei tuosta kyllä liene,
+    Ohtoseni, Lyllyseni!
+    Keännä kaiat kantapeäsi,
+    Viisi kynttäsi vipuo
+    Pohjosehen mennäksesi;
+    Siell' on luutonta lihoa,
+    Suonitonta pohkiota,
+    Syyä miehen nälkähisen,
+    Haukata halun alasen.
+
+
+
+
+Tulen Synty.
+
+(Vuokkiniemestä.)
+
+
+    Tuotap' on kysyn sinulta:
+    Miss' on tulta tuuviteltu,
+    Varvenneltu valkiaista?
+    Tuoll' on tulta tuuviteltu
+    Yllä taivosen yheksän,
+    Peäll' on kuuen kirjo-kannen.
+    Iski tulta Ilmarinen,
+    Välkytteli Väinämöinen
+    Rahin rautasen nenässä;
+    Iski tulta kyntehensä,
+    Järkytti jäsenehensä;
+    Niin kirpoi tuli-kipuna
+    Läpi taivosen yheksän,
+    Läpi kuuen kirjo- kannen,
+    Läpi reppänän retusen,
+    Läpi lasten kätkyestä;
+    Niin kirpoi Alimo-järveen.
+    Tuo Anke Alimo-järvi
+    Kuohu koivujen tasalla,
+    Paisu peällä parmahitten
+    Suuria tulen vihoja.
+    Itse noin sanoiksi virkko:
+    "Ei ole veessä tässä
+    "Minun tuskan tuntioa,
+    Vaikien vajottajoa,
+    Minun nielun nielieä."
+
+      Niin tuli silia siika,
+    Niin nieli tuli-kipunan;
+    Tuli tuska nieliälle,
+    Vaikie vajottajalle,
+    Pakko paljon syönehelle.
+    Uiksenteli, käyksenteli
+    Niemi nientä, soari soarta,
+    Joka niemi neuvon pisti,
+    Joka soari sai sanoman.
+    Sano siitä uituonsa:
+    "Ei ole veessä tässä
+    "Minun tuskan tuntioa,
+    Vaikien vajottajoa,
+    Minun nielun nielieä."
+
+      Niin tuli halia hauki,
+    Niin nieli silian siian;
+    Tuli tuska nieliälle,
+    Vaikie vajottajalle,
+    Pakko paljon syönehelle.
+    Uiksenteli, käyksenteli
+    Niemi nientä, soari soarta;
+    Joka niemi neuvon pisti,
+    Joka soari sai sanoman.
+    Sano siitä uituonsa:
+    "Ei ole veessä tässä
+    Minun tuskan tuntioa,
+    Vaikien vajottajoa,
+    Minun nielun nielieä."
+
+      Niin tuli Lohi punanen,
+    Joll' on suu satoa syltä,
+    Korvat kahen kosken verta;
+    Sepä ui joen jukia,
+    Eleli eno-vesillä,
+    Niin nieli halian hauvin.
+
+      Sisarekset Sotkottaret,
+    Ijankaikkiset kälykset
+    Polttelovat moan matosen,
+    Kyvettävät Tuonen toukan,
+    Kypeniä kylvelevät,
+    Moan polttavat poroja.
+    Tuosta kasvo kaunis touko,
+    Liina liitoton yleni,
+    Kasvo pellavas peritön.
+    Sisarekset kesreävät,
+    Veljet verkkoa kutovat,
+    Kaliukset käpyölövät.
+    Nyt on verkot valmihina
+    Nuotat selystettynä.
+    Veetään vasta vettä;
+    Ei tullut sitä kaloa,
+    Jot' on vasten nuotta tehty;
+    Niin nuotta potketaan,
+    Veärin veetään apaja.
+    Tuop' on Vanha Väinämöinen,
+    Itse noin sanoiksi virkko:
+    "Onkos tarvis tarpojia,
+    Varsin puun pitelejiä?"
+    Sisarekset vastoavat:
+    "On tarvis tarpojia,
+    Varsin puun pitelejiä."
+    Tuop' on Vanha Väinämöinen
+    Hongan rannalta hotasi,
+    Poajen porkaksi panoovi,
+    Tarpo nuotan tappuraksi,
+    Veen velliksi sekotti.
+    Niin tuli Lohi punanen,
+    Jot' on vasten nuotta tehty.
+    Vaan ei kärsi käsin ruveta
+    Ilman kirjo-kinttahitta,
+    Eli rauta-rukkasitta.
+    Tuop' on Vanha Väinämöinen
+    Nouti kirjo-kinttahansa,
+    Haki rauta-rukkasensa,
+    Itse noin sanoiksi virkko:
+    "Vieris veitsi taivosesta,
+    "Puukko pilvestä putoa,
+    Peä kulta, terä hopio,
+    Peäp' on Väinösen kätehen,
+    Kärki Luojan kukkarohon,
+    Puhota lohi punanen!"
+
+      Vieri veitsi Taivosesta,
+    Puukko pilvestä putosi,
+    Peä kulta, terä hopio,
+    Peäp' on Väinösen kätehen,
+    Kärki Luojan kukkarohon.
+    Niin puhkai lohen punasen,
+    Siell' oli halia hauki;
+    Niin puhkai halian hauvin,
+    Siell' oli silia siika;
+    Niin puhkai silian siian,
+    Siell' oli sini-keränen;
+    Niin puhkai sini-keräsen;
+    Siell' oli puna-keränen;
+    Niin puhkai puna-keräsen,
+    Tuli tuiskahti palamaan.
+    Palo silloin paljon maita,
+    Paljon maita, paljon soita
+    Pahana palo-kesänä,
+    Tuli-vuonna voimatoinna.
+
+
+
+
+Toisin.
+
+(Sotkamosta.)
+
+
+    Tulen synty taivahasta,
+    Vuoresta veen sikiö. —
+    Miss' on tulta tuuvitettu,
+    Valkiata vaivutettu? —
+    Tuolla taivahan navoilla; —
+    Kultasessa Kätkyessä.
+    Hopiaiset hihnat notkut.
+
+      Saatihin halia hauki,
+    Halastiin halia hauki;
+    Saatihin sini- keränen,
+    Halastiin sini-keränen;
+    Saatihin puna-keränen,
+    Halastiin puna-keränen;
+    Putosi tuli-soronen
+    Läpi maan, läpi manalan,
+    Läpi kuuen kirkkokunnan.
+
+      Hiien tyttö, hiien neiti
+    Hyystä kelkkoa vetääpi,
+    Jää-rekiä reutuaapi,
+    Hyyss' on sukka,
+    hyyssä kenkä,
+    Hyhmässä hamehen helmat.
+    Tuovos vettä tuohisella,
+    Kanna kaksi-vartisella,
+    Kolmen Koivun juuren alta,
+    Kahen kantasen välistä,
+    Hyyin-vettä ja vilua.
+
+
+
+
+Sikaliskon Synty.
+
+(Paavolasta.)
+
+
+    Vinkas Vankahan makasi,
+    Tuli poika maattahissa,
+    Ungerma levättähissä.
+    Kuhunka poika vietännee?
+    Poika viiäänpä vetteen.
+    Pah' on pojan siellä olla;
+    Nuoret nuotilla vetävät,
+    Siimalla sivaltelevat. —
+
+      Vinkas Vankahan makasi,
+    Tuli poika maattahissa,
+    Ungerma levättähissä.
+    Kuhunka poika vietännee?
+
+             Poika viiään
+    Keskelle Simon saloa.
+    Pah' on pojan siellä olla:
+    Simon salot kuivettuvat,
+    Mehtä-miehet vanhanevat. —
+
+      Vinkas Vankahan makasi,
+    Tuli poika maattahissa,
+    Ungerma levättähissä.
+    Kuhunka poika vietännee?
+
+             Poika viiään
+    Koivu-pökkölön kottiin,
+    Lahon kannon kartanoon;
+    Siell' on hyvä ollaksesi,
+    Lempi liekasellaksesi; —
+    Päivä paistaa lämpymästi; —
+    Siellä toukaksi tuleepi,
+    Sikaliskoksi sikesi. — — —
+
+    Mato musta maan-alanen,
+    Toukka Tuonen karvallinen,
+    Miksi teit pahaa,
+    Kuksi kaksi huusit yötä?
+    Käskikö sinun emosi,
+    Virkkoko Valta-Vanhempasi
+    Tekemähän nuitä töitä?
+    Sinervä kanervan poika!
+    Sinervä sinun sukusi,
+    Sinervä sinä itekkin. — —
+
+
+
+
+Maon Sanat.
+
+(Paavolasta.)
+
+
+    Mato musta maan-alanen,
+    Toukka Tuonen karvallinen,
+    Läpi mättäien meniä,
+    Puun juuren pujettelia,
+    Laho kannon kaivelia,
+    Maan sammalen alanen,
+    Kiulun korvan kierteliä,
+    Naisten vyöllisten lukia,
+    Avainten arvelia! — —
+    Suutusten sinun sukusi,
+    Selätysten siemenesi,
+    Tullos työsi tuntemaan,
+    Pahasi parantamaan! — —
+    Syvätär vesille sylki,
+    Lapa-hiitto lainehille,
+    Lainehelle kuuennelle,
+    Aallolle yheksännelle: — — —
+    Kiven karva, kannon karva,
+    Maan karva, kanervan karva,
+    Lepän karva, lemmon karva,
+    Pajun karva, pannahainen,
+    Lumen karva, lustin karva,
+    Lustin karva kaiketikkin!
+    Sitti silmäisi väliin! —
+    Tullos työsi tuntemaan,
+    Pahasi parantamaan! —
+    Miksi pistit, kunma kielsin,
+    Miksi maistit, kunma varotin.
+    Juoppa viinana vihasi,
+    Olunna hyvät omasi.
+
+
+
+
+Toisin.
+
+(Paavolasta.)
+
+
+    O! Ukko, Taivaan Jumala,
+    Joka pilviä pitäävi,
+    Hattaroita hallihteepi. — —
+    Jumala jotakin tiesi,
+    Jok' on Taivoset takonu,
+    Veen kannet kalkutellu. — —
+    — — — — —
+    Uupu Juutas juostesansa,
+    Väsy väipästellesänsä,
+    Kaatu kallion kolohon:
+    Kino juoksi konnan suusta,
+    Kuola ilkiän kiasta,
+    Tälkki lemmon tälleröstä.
+    Santta Pietari sukesi,
+    Johan Herra hengen anto. — — —
+    Piru silmät siunaeli
+    Lempo leuka-luut sukesi.
+
+      Mato musta! Kyy punanen!
+    Kuljit kuunnellen kujia,
+    Ajatellen aian vieret.
+    Jo teki poikasi pahoa,
+    Lapsesi tihua työtä. — —
+    Kerolaisen kehro-varsi,
+    Virolaisen virsun paula,
+    Alimmainen aian vihtas,
+    Perimmäinen pellon seiväs!
+    Kiven karva, kannon karva,
+    Maan karva, kanervan karva,
+    Karva kaikkein kavetten,
+    Sitti silmäisi välliin! — —
+    Tulesta työsi tuntemaan,
+    Pahasi parantamaan! — —
+    Tulkohon Jumalan tunto,
+    Herran armo auvekkohon
+    Kipiöille voitehiksi,
+    Haavoille parantehiksi,
+    Vieriltä viattomaksi,
+    Keskiä kivuttomaksi,
+    Päältä nuurumattomaksi,
+    Alta aivan terveheksi!
+    Halkia mato kaheksi,
+    Konna kolmeksi repiä,
+    Syömästä, kaloamasta!
+    Tuonne minä kivut panen
+    Kipu-vuoren kiukahalle,
+    Kivuttaren kinttahase.
+    Tuonne minä kivut panen
+    Vaivattaren vanttuhuse.
+    Tuonne minä kivut panen
+    Hauvin hirmun hartioille,
+    Emon-tuoman ruumihista.
+    Halkia paha kaheksi,
+    Konna kolmeksi repiä,
+    Syömästä, kaloamasta!
+    O! onneton omena,
+    Miksi haukkasit halun-alanen?
+    Tuonne minä kivut panen
+    Vierehen Turjan kosken,
+    Pahan virran partahalle,
+    Joss' on hirmut hirtettynnä,
+    Jalo-peurat jaksettunna.
+    Tuonemma sinun manaan,
+    Lihan syöjä, luun puria,
+    Veren uuelta imiä!
+    Pohjan pitkään perään,
+    Lapin laajaan kylään,
+    Jost' et pääse päivinäsi,
+    Selviä sinä ikänä,
+    Kuunna Herran valkiana,
+    Joss' on muutkin murhamiehet,
+    Ikuset pahan tekiät.
+
+
+
+
+Hammas-maon Sanat.
+
+(Paavolasta.)
+
+
+    Paistuppa mato manolle!
+    Turaakkos Tuonen toukka  [kähisetkös]
+    Pirun pihtein välisä,
+    Hiien hiilein seasa,
+    Rautasesa kattilasa! — — —
+    Helvetin tulen kipinä!
+    Tähänkö panit papusi,
+    Tähän heitit hernehesi? —
+    Kissa hiien! kiskomasta,
+    Rakki lemmon! raatamasta,
+    Puremasta, liitämästä,
+    Ihosta imento-raukan,
+    Karvasta kavon tekemän,
+    Emon tuoman ruumihista,
+    Kisko kärmehen kitoja,
+    Revi lemmon leuka-luita,
+    Suu on suuta suuremmainen,
+    Leuka-luut on leviämmät.
+    Tuonnemma sinun maanaan
+    Kirkon kirjavan sivulle,
+    Sata-lauan lantehille,
+    Sata-malkasen malohon;
+    Siellä sinä sikiäs' siitä,
+    Siellä lapses' kasvattele,
+    Siell' on hyvä ollaksesi,
+    Helppo heimahellaksesi.
+    Jos ei tuosa kyllä liene,
+    Ei kyllä, eikä tarve,
+    Siell' on luutonta lihaa,
+    Siell' on päätöntä kalaa,
+    Suonetonta pohkiota,
+    Syyä miehen nälkähäisen,
+    Haukata halun-alasen.
+    Jos ei tuosa kyllä liene,
+    Ei kyllä, eikä tarve,
+    Neitsy Maria Emonen,
+    Rakas Äiti, armollinen,
+    Tuo tulla tuhottelee,
+    Silkin hienon simsuttaapi,
+    Tekemähän terveyttä,
+    Rauhan rakentamahan.
+    Jos ei tuosa kyllä liene,
+    Ei kyllä, eikä tarve,
+    Tuonne minä kivut kiskon
+    Ilmaan papittomaan,
+    Maahan ristimättömään,
+    Kastamattomaan kartanoon.
+    Tuonne minä kivut kiskon
+    Suusta (täsä sanotaan sairaan nimi)
+    Ison kiljuvan kittaan,
+    Leviöihin leuka-luihin,
+    Suuhun suuren perkelehen.
+
+
+
+
+Ähkyn Sanat.
+
+(Paavolasta.)
+
+
+    Ähky poika ähmeröinen,
+    Toinen poika tohmeroinen,
+    Kolmas on kovin nokinen.
+
+      Nousi Kokko Korviosta,
+    Teräs-leuka liettehestä,
+    Somerosta suomu-selkä,
+    Kiven äärtä kiskomaan,
+    Paajen äärtä painamaan.
+
+      Äskön eilessä päivänä
+    Otin kourat Kontiolta,
+    Karhulta käen kämiä,
+    Jollama puskuja puserrin,
+    Jollan taitan tauvin juonet;
+    Eipä Hiitto tiennykään;
+    Mi hippo minusta synty?
+    Mi kapo minusta kasvo?
+    Syntypä syen näkönen,
+    Kasvo rauan karvahinen. — —
+
+      Iholta Imento raukan,
+    Karvalta Emon kappeen,
+    Emon tuoman ruumihilta,
+    Tuonnemma sinun lähetän
+    Kirkon kirjavan sivulle,
+    Sata-lauvan lantehille,
+    Terva-harjan hartiolle,
+    Siell' on hyvä ollaksesi,
+    Lempi liekitelläksesi.
+    Jos et tuota totelle,
+    Tuonne tungen turmioita,
+    Tuonne ähkyjä asetan,
+    Tuonne hanhen siiven alle,
+    Jouhtenen sulan sivulle.
+    Jos et tuota totelle,
+    Tuonnema sinun manaan
+    Siian kylki-luun sivuun,
+    Maksohin Meri-majetten.
+
+
+
+
+Rauan Sanat.
+
+(Paavolasta.)
+
+
+    Mesi rauan suumaloon,
+    Mesi rauan karvaloon!
+    Vieriltä viattomaksi,
+    Keskiä kivuttomaksi,
+    Päältä tuntumattomaksi
+    Alta aivan terveheksi! — —
+    Oopa! sinus, rauta raukka,
+    Rauta raukka, koito kuono,
+    Teräs tenho päivällinen!
+    Etsäs sillon suuri ollut,
+    Et suuri, etkä pieni,
+    Etkä kovin koreakaan,
+    Kuinsas suosta sotkittiin,
+    Vetelästä vellottiin,
+    Koska kuonona kohisit
+    Seppä Ilmasen pajasa,
+    Alla ahjon Ilmarisen.
+    Eipä rauta paha olisi
+    Ilman kärmehen kähytä,
+    Maon mustan muimehita.
+    Hörhöläinen hiien lintu
+    Kahtoopi katon rajasta,
+    Ruotehesta roijattaapi,
+    Sanoopi tuovansa terästä
+    Karasinta kantavansa;
+    Ei tuonnukkaan terästä,
+    Karasinta kantanukkaan,
+    Kanto kärmehen kähyjä,
+    Maon mustan muimehia
+    Seppä Ilmasen pajahan,
+    Alle ahjon Ilmarisen.
+    Mettiäinen Ilman lintu
+    Lähti mettä Mettolasta,
+    Timua Tapiolasta,
+    Yheksän meren ylitti,
+    Meri puolen kymmenettä;
+    Toipa mettä Mettolasta,
+    Timua Tapiolasta,
+    Kipiöille voitehiksi,
+    Haavalle parantehiksi.
+
+
+
+
+Veren Tyrehys-Loihto.
+
+(Paavolasta.)
+
+
+    Kuinkas sillon lauletaan,
+    Kuin rauta pahan tekeepi,
+    Teräs hieno hilpaseepi?
+    Veri hyyksi hyytyköön,
+    Veri jääksi jäätyköön!
+    Veri seiso niinkuin seinä,
+    Hurmi asu niinkuin aita,
+    Kuin miekka meresä seiso,
+    Sara-heinä sammalesa.
+    Lennä, lennä laiha kurki!
+    Tuovos hiiestä patoja,
+    Helvetista kattiloita,
+    Jolla verta keitetään,
+    Hurmetta hurotetaan,
+    Ettei maito maahan juokse,
+    Hurme peltoon putoa,
+    Minun silmin nähtyäni,
+    Tahi korvin kuultuani.
+    Kuiva kuusi, rauta oksa
+    Rauan syömään rakoon,
+    Ruostehen reväsemään,
+    Ettei maito maahan juokse,
+    Hurme peltoon putoa,
+    Minun silmin nähtyäni,
+    Tahi korvin kuultuani.
+    Tuki suuta turppahalla,
+    Mätä mättähän palalla,
+    Vanha Ukko, harmaa-päinen!
+    Tuo tukko Tuonelasta,
+    Salpa saunan karsinasta,
+    Tukkeheksi tuiman reiän,
+    Paikaksi pahan veräjän;
+    Paina paksu peukalosi
+    Rauan syömähän rakoon,
+    Ruostehen reväsemään,
+    Ettei maito maahan juokse,
+    Hurme peltoon putoa,
+    Minun silmin nähtyäni,
+    Tahi korvin kuultuani.
+    Tyrehty ennen Tyrmän koski
+    Joki Joortanin pysähty.
+
+
+
+
+Ryyhynnäisen (tarttunnaisen, tarttuman) Sanat.
+
+(Paavolasta.)
+
+
+    Lähe liika liikkumaan,
+    Muu paha pakenemaan!
+    Nyt on liian liikennön aika,
+    Pahalta pakeneman kuuro.
+    Ilman päivän nousemata,
+    Auringon ylenemätä. — — —
+    Päästä Luoja, päästä Luonto!
+    Naisten naarasten sanosta,
+    Kylä-kunnan kykkyröistä.
+    En sano vihasa, enkä lemmesä,
+    Sanon ilman aikojaan
+    Katehille maallisille,
+    Velhoille veellisille.
+
+      Oli mull' ennen musta koira,
+    Rakki rauan-karvallinen,
+    Karva-turpa penkin alla,
+    Jonka turpa tulta lyöpi,
+    Nenän varsi valkiata,
+    Syömähän kylän kiroja,
+    Lakkimahan lainehia.
+    Tuli Kokko Turjan maalta,
+    Laskeu Lapista lintu,
+    Sata miestä siiven päällä,
+    Tuhat pyrstön tutkamesa;
+    Toinen siipi vettä viilsi,
+    Toinen Taivasta jakasi.
+    Kasta siipesi simasa,
+    Pyhi sulkasi sulalla.
+    Pese Jesus! peiposesi,
+    Puhistele pulmusesi,
+    Metän uuhen untuvalle,
+    Metän ilveksen iholle,
+    Karvalle metän kavetten. — — —
+
+      Mene konna! kottiisi,
+    Ilkiän Isäsi luoksi,
+    Isäntäsi iltaselle,
+    Emäntäsi einehelle,
+    Muun pereesi murkinalle;
+    Tuonemma sinun manaan,
+    Kaajan kalma-kellariin!  [karkotan]
+    Kuka sinun on luonut?
+    Kuka kumman on kuvannut?
+
+
+
+
+Waapsahaisen Lumous.
+
+(Kalajoen pitäjästä.)
+
+
+    Sinä vanha Väinämöinen,
+    Kuin teit huorin kolmi-öissä!
+    Kuss' on Isäni tulinen Turkki,
+    Äitini punanen paita?
+    Kuss on kyiset kinttahani,
+    Maan-matoset vanttuhuni,
+    Jollama ruttohon rupian,
+    Ampu-tautihin tapaasin? —
+    Kytke siipes', taita nuoles,
+    Ammuskele aikojasi,
+    Taukkeloihte toisiasi.
+    Min' otan kokolta kourat,
+    Haukalta haarittimet,
+    Linnulta lihan-pitimet,
+    Jolla konnan kouristelen,
+    Isketän pahan itikan.
+
+
+
+
+Painajaisen Sanat.
+
+(Paavolasta.)
+
+
+    Mene konna! kottiisi
+    Ilkiän isäsi luoksi,
+    Isäntäsi iltaselle,
+    Emäntäsi einehelle,
+    Käskiäsi kämmenelle,
+    Lukiasi luun muruille.
+    Mene muolle muutes-kumma,
+    Paha maillesi pakene,
+    Ilkiä! Isäsi maalle,
+    Ristittyä rikkomasta,
+    Kastettua kaatamasta.
+    Ota hiiestä hevonen,
+    Vuoresta valittu varsa
+    Hyvälle hypittäjälle,
+    Ajajalle ankaralle;
+    Hiien leppäset sivakat,
+    Joilla hiihit hiien maita,
+    Lensit lemmon lepiköitä.
+
+
+
+
+Siikasen (Vihneen) Sanat.
+
+(Paavolasta.)
+
+
+    Siikanen sinun nimesi,
+    Pihan rikka, pellon rikka,
+    Maan rikka, mannon rikka,
+    Kujan kullanen omena!
+    Käännyt tänne, palaa tuonne,
+    Eesäs' on meri lieto,
+    Takanasi salo synkkä:
+    Hyi! lyötä lietoon mereen —
+    Meri lieto lappamaan,
+    Salo synkkä työntämään.
+
+
+
+
+Toisin.
+
+
+    Siikanen sinun nimesi,
+    Hyöryläinen, pyöryläinen,
+    Pihan rikka, pellon sonta,
+    Haara-huulen haarittaja,
+    Mehtä-pellon pensittäjä,
+    Mene muonne, palaa poies
+    Ihosta alastomasta,
+    Vaimon vaatteettomasta,
+    Eesäs' on meri lieto,
+    Takanasi taivas kirkas,
+    Lyötä lietoon mereen.
+
+
+
+
+Loihto.
+
+(Kalajoesta.)
+
+
+    Minä mies metän käviä,
+    Uros korven kolkuttaja,
+    Eikö minussa miestä löy'y,
+    Ukon pojassa urosta,
+    Tämän pulman purkajata,
+    Lapin virren laulajata?
+    Tuosta tie menöövi,
+    Ura uusi urkenoovi
+    Paremmille laulajoille,
+    Taitavammille runoille;
+    Vain reistataan kuitenni,
+    Kunnan kynnet kilpistyyvi,
+    Kunnan jähtyyvi jäsenet,
+    Nostessa Noki-mäkiä,
+    Kipu-vuorta kiivetessä.
+    Kuss' on kivut keitettynnä? —
+    Täss' on kivut keitettynnä,
+    Keskellä kipu-mäkiä,
+    Kipu-vuoren kukkalalla,
+    Patasessa pikkusessa,
+    Kahen sormen mentävässä,
+    Peukalon mahtuvassa.
+    Helvetiss' on kattiloita,
+    Jossa verta keitetähän. —
+    Otakkos kikon kakasta.
+    Emä-lempo ampu linnun. —
+    Tulpan tungen noian suuhun,
+    Tervan tietäjän kitahan.
+
+
+
+
+Kiven Sanat.
+
+(Kalajoesta.)
+
+
+    Kivi kiikka, lemmon poika,
+    Maan muna, pellon kakara.
+    Ei kivi kipiä ole,
+    Eikä paasi pahaa tee,
+    Ilman kärmehen kähytä,
+    Maan mustan muotoseta.
+    Hyvin teit ettäs panit,
+    Paremmin ettäs paransit,
+    Päältä nuuromattomaksi,
+    Keskiä kivuttomaksi,
+    Alta aivan terveheksi.
+
+
+
+
+Toisin.
+
+(Paavolasta.)
+
+
+    Kivi kimman kamman poika,
+    Maan muna, pellon kakara,
+    Huoran hattaran tekemä!
+    Tulesta työsi tuntemaan,
+    Pahasi parantamaan.
+    Miksi koskit kunma kielsin?
+    Miksi maistit, kunma varotin?
+    Juoppa viinana vihasi,
+    Olunna hyvät omasi.
+
+
+
+
+Vielä toisin.
+
+(Sotkamosta.)
+
+
+    Kivi kimman, mamman maksi,
+    Kivi kirsosi alenna,  [ruma naamasi]
+    Paina paasi lappiosi!
+    Kivi kylmä maasta nousi,
+    Kivi kylmä kosken pohja.
+    Keskeltä kivuttomaksi,
+    Päältä nuuromattomaksi,
+    Alta aivan terveheksi.
+
+
+
+
+Rupiaman Sanat.
+
+(Sotkamosta.)
+
+
+    Otan koprat kontiolta,
+    Toiset koprat kuollehelta,
+    Kolmannet kokolta koprat,
+    Linnulta lihan pitimet,
+    Haukalta haarittimet,
+    Jolla puskuja puserran,
+    Jolla painan paisehita.
+
+    Ruskia on rupinen Neiti,
+    Paha paisetten Emonen;
+    Puuhun ennen pehko kasvo,
+    Puuhun pehko, maahan mahko,
+    Kivehen veri-näpyrä,
+    Eikä ihmisen ihohon.
+    Sula voi sulattaissa,
+    Rasva räävyteltäissä
+    Keskeltä kivuttomaksi,
+    Päältä nuuromattomaksi,
+    Alta aivan terveheksi.
+
+
+
+
+Lapsen Saamisen Loihto.
+
+(Sotkamosta.)
+
+
+    Itse vanha Väinämöinen!
+    Tule saunahan salaa,
+    Ilman uksen kuulemata,  [oven]
+    Saranan narahtamata;
+    Liikuta lihanen portti,
+    Luinen portti longahuta;
+    Päästä maalle matka-miestä,
+    Pieni-sormista sovita;
+    Hame pilviksi hajota;
+    Sio Jesus sinisellä
+    Puuta Jesus punasella! — —
+
+      Itse vanha Väinämöinen
+    Sanoopi sanalla tällä:
+    "Iteksen' on ilman miekka,
+    Kanssani kamalan miekka,
+    Jolla haitat hakkaelen,
+    Etiseltä ilmaltani,
+    Vasemmalta varjoltani."
+    Ukko Taivaan Jumala!
+    Keri kultassa keränä,
+    Hopiossa vuolangenna,
+    Ettei pysty noian nuolet,
+    Eikä tietäjän teräkset,
+    Eikä velhon veitten rauvat.
+
+
+
+
+Hiveltymän Sanat.
+
+(Sotkamosta.)
+
+
+    Jesus kirkkoon meneepi
+    Hevosella hirvisellä,
+    Kala-hauvin karvasella,
+    Lohen mustan muotosella;
+    Hivelty hevosen jalka,
+    Tarttu varsan seäri-varsi
+    Kivisellä kirkko tiellä,
+    Vaskisella vainiolla;
+    Jesus maahan ratsahilta:
+    "Mist' on suoni solkahtannu?
+    Mist' on liikkunnu lihoa?
+    Siihen liittele lihoa,
+    Siihen pane palliota."
+    Neitsy Maria Emonen!
+    Tuoppa silkkisi sininen,
+    Pantasi tuli-punanen.
+
+
+
+
+Karhun Lumous.
+
+(Sotkamosta.)
+
+
+    Ohtoseni, lintuseni,
+    Mesi-kämmen kaunoseni!
+    Kuinsas kuulet karjan kellot,
+    Lyötä maahan mättähälle,
+    Nurmelle nukahtamaan.
+    Murra muurais-pesiä,
+    Mätä marja-mättähiä.
+    Villa suusi, villa pääsi,
+    Villa viisi hammastasi,
+    Pane kaksi kämmentäsi
+    Koion korvasi etehen!
+
+
+
+
+Suen Lumous.
+
+(Sotkamosta.)
+
+
+    Susi suuri nälkähinen,
+    Koira liiaksi lihava
+    Tuli tiellä vastahani. —
+    Tuonne ma sinun manaan
+    Yheksän meren ylite,
+    Meri puolen kymmenettä.
+    Metän kulta, mielis-neiti,
+    Kullan-kultanen Orava!
+    Kätke kulta kumpuhusi,
+    Metän hippu mielehesi.
+
+
+
+
+Pakkaselle.
+
+(Sotkamosta.)
+
+
+    Pakkanen puhurin poika
+    Alta jalkoja anoopi,
+    Kieltä suusta vihelööpi. —
+    Älä kylmä kynsiäni,
+    Kylmä soita, kylmä maita,
+    Kylmä kylmiä kiviä,
+    Kesät heitä hettehellä,
+    Talvet taivahan navalla.
+
+
+
+
+Lapsen Pesimä-Sanat.
+
+(Sotkamosta.)
+
+
+    Mato syöpi maan vihoja,
+    Sammakko veen vihoja.
+    Pese Jesus! peiposesi,
+    Puhastele pulmusesi,
+    Luojan luomilla vesillä,
+    Pyhän synnyn säätämillä.
+    Maa juokoon maitona makunsa
+    Vierteenä omat vihansa.
+    Alle maan, alle manuen,
+    Alle peltehen yheksän.
+    Keskeltä kivuttomaksi, j.n.e.
+
+
+
+
+Riien Sanat.
+
+(Sotkamosta.)
+
+
+    Riisi poika Riutukainen,
+    Riutukaisen pojan poika,
+    Hekku helmain alanen,
+    Häpiä hyväin miesten
+    Puremasta, nietämästä,
+    Ristityitä rikkomasta,
+    Kastetuita kaatamasta!
+    Ota hiien hienot sukset,
+    Lemmon leppäset sivakat,
+    Jolla hiihät hiien maita,
+    Lemmon maita löyhyttelet.
+    Juokse Portimon jalolla,
+    Mene kärpän kämmenillä,
+    Huuten helvettihin,
+    Parkuin pahalle maalle;
+    Siellä itkeepi Isäsi,
+    Valittavat Vanhempasi.
+
+
+
+
+Viinan Loihto.
+
+(Sotkamosta.)
+
+
+    Mehiläinen ilman lintu!
+    Kulje kuuron äärtä myöten,
+    Samalen maloja myöten. —
+    Mehiläinen ilman lintu
+    Juokse pitkin piipun vartta,
+    Halki hattua samoa!
+
+
+
+
+Puun Sanat.
+
+(Sotkamosta.)
+
+
+    Puu puhas Jumalan luoma,
+    Vesa Jesuksen vetämä,
+    Kanto Herran kasvattama,
+    Jonka oksa mettä tippu,
+    Huuvetta huratteli.
+    Tyvi-puu pahan tekeepi,
+    Latva mettä kantamaan;
+    Latva-puu pahan tekeepi,
+    Tyvi mettä kantamaan;
+    Lehti-puu pahan tekeepi,
+    Hako-puulle mainitaan;
+    Hako-puu pahan tekeepi,
+    Lehti-puulle mainitaan.
+    Tule työsi tuntemaan,
+    Pahasi parantamaan.
+    Juoppa viinana vihasi,
+    Olunna hyvät omasi.
+
+
+
+
+Löylyn lumous.
+
+(Sotkamosta.)
+
+
+    Ei oo löylyn löytämistä,
+    Lämpösen läpiämistä,
+    Läpi kuuman kurki-hirren,
+    Läpi kiukahan kivistä,
+    Läpi saunan sammalista.
+    Itse Vanha Väinämöinen,
+    On saanu senkin sanoman
+    Omaltakin Isältänsä:
+    "Laki on lahnan suomuksista,
+    Kiuka on meren kivistä,
+    Ovi-seinä Osman luusta
+    Peri-seinä peuran luusta."
+
+
+
+
+Lapselle.
+
+(Sotkamosta.)
+
+
+    Ei täyvy tätä tytärtä
+    Likasille listehille,
+    Pahoille reki-pajuille;
+    Viellä tälle tyttärelle
+    Kaunis kaukoa tuleepi,
+    Verevä veen takoa,
+    Musta kulma muilta mailta,
+    Juokseepi Ori punanen,
+    Kirja korja kiiättääpi.
+
+
+
+
+Runo.
+
+(Sotkamosta.)
+
+
+    Olin minä piennä paimenessa,
+    Lassa lammasten ajossa,
+    Yhty yrkä karjahani; —
+    Hako tiellä poikki puolin; —
+    Yrkä istu tyvemmäksi,
+    Minä lapsi latvemmaksi
+    Yrältä kyselemään:
+    "Kävitkös minun kotini,
+    "Vaellitko Vainiani?
+    Mikä merkki minun kotona?" —
+    Kataikko kaivo-tiellä,
+    Tuomikko tuvan perässä,
+    Pihlaikko pirtin päällä,
+    Kulta kaivo koan eessä,
+    Kulta kansi kaivon päällä."
+
+
+
+
+Maata pannessa.
+
+(Kalajoesta.)
+
+
+    Jesus kilpi, Maaria miekka!
+    Terve maa, terve manner,
+    Terve manteren haltia,
+    Terve tälle tervehtäjälle! — — —
+    Maata pannen maan luvalla,
+    Maan luvalla, puun luvalla,
+    Kaiken kartanon luvalla.
+
+
+
+
+
+
+NYKYISEMPIÄ LAULUJA.
+
+
+
+
+Runo-Laulu Talonpojan Säädystä.
+
+
+    Ei oppi ojahan kaada,
+    Ei taito takasin työnnä,
+    Neuvo syrjähän sysäjä.
+    Ensin mies opetetaan,
+    Sitte hattu hankitahan.
+    Herrat hattua pitävät,
+    Kyntömiehell' on kypärä.
+    Joll' on oppia otassa,
+    Sen on nappia nutussa,
+    Housussa hopiakello;
+    Palomies on paikkaisissa.
+    Joll' on virka vähäinenkin,
+    Sill' on paita palttinasta,
+    Riihimies on rikkuneella.
+    Herrat saappaassa salissa,
+    Toisin vuoroin tohvelissa;
+    Viertomies on virsuillansa.
+    Herran on keppi kädessä,
+    Puhe pulska Mestarilla,
+    Peltomies om pelvon alla.
+
+      Kuules kuitenkin minua,
+    Taitava talon isäntä:
+    Älä suutu säätyhysi,
+    Älä virkahas' vihastu, Vaikkas' vaivalla isolla
+    Maatas' mahtihin rakennat.
+    Pidät pellon pehmiänä,
+    Hankit halmetta lisäksi,
+    Kannat kontissa evästä,
+    Viikon muonan mennessäsi,
+    Vaikka vanhana valitat:
+    "Sekä on kipiä selkä
+    Että hartiat hajalla."
+
+      Ei pännä meitä elätä,
+    Jos ei atrasta apua.
+    Kuin et kyntöhön kykene,
+    Pidä pojille porua,
+    Neuvo työtä tyttäreille,
+    Aja pellolle perettäs',
+    Kaskimaalle kaikki joukko,
+    Palolle paljon väkeä,
+    Niinkuin niitylle ikähän;
+    Sitte siunaapi Jumala,
+    Ett' on aitassa eloa,
+    Raha-kassa kamarissa,
+    Että on vara veroksi,
+    Ulottuu ulos-teoiksi,
+    Että Papitkin paraten
+    Saavat heidän saatavansa,
+    Lukkari oman osansa,
+    Kaikki muutkin kappamiehet
+    Suorittelet suosiolla. —
+    Sitä miestä mielellänsä
+    Herrat hyvänä pitävät,
+    Jolta saavat saatavansa.
+    Sitte Kirkherran kotona
+    Kahvikuppi kannetahan;
+    Luona Lukkarin samaten
+    Aamu-ryypyy annetahan;
+    Nimismiehet mielellänsä
+    Kelpomieheksi kehuvat,
+    Vielä sanovat salissa:
+    "Istu nyt hyvä Isäntä
+    Ota ryyppy oivallinen."
+    Sille rengitkin rupeevat
+    Ilman paljon pyytämätä,
+    Piiat kanssa pyrkimällä
+    Laurin päivänä peräävät;
+    Sille mestarit menevät
+    Työhön ilman tinkimätä;
+    Kasakoita kaikin aion
+    Hänen työhönsä tuleepi.
+    Tämmönen talon Isäntä
+    Saapi hankkia hatunkin,
+    Paian puhtahan pitää,
+    Vielä västin oivallisen,
+    Ja siihen siniset housut.
+    Saanut saappaatkin pitää,
+    Käypi köyhä kengätäkkin.
+
+      Vieläkö saanen sanoa
+    Eli pikkuisen puhua
+    Muiden mieliksi minäkin?
+    Ei hän mailma mahissa
+    Paitsi Herroja pysyisi;
+    Ei Herrat hyvin eläisi
+    Kuin ei maata kynnettäisi.
+    Maasta mailma elääpi,
+    Sekä suuret että pienet;
+    Maasta makiat tuleepi,
+    Maasta vääntyypi väkevät,
+    Hapan kaikki hankitahan
+    Kaiken kansan tarpehiksi.
+
+      Siis sinä siviä Vaari,
+    Taitava talon Isäntä,
+    Et huoli hätäillä siitä,
+    Jos Herrat hevosen kanssa
+    Tulevat tupasi etehen.
+    Käske kohta kiirehesti
+    Rengin riisua hevonen,
+    Kanna kauroja etehen,
+    Käytä Herra kamarihin,
+    Kanna pöydälle pötyä,
+    Laita lapsi naapurihin,
+    Rannin vaarille varoitus,
+    Kutsu kanssasi ruvalle,
+    Istu itse pöydän päähän,
+    Ota pottu polvillesi,
+    Pidä kädessäs pikari.
+    Sitten haastele hyvästi,
+    Vielä viisaasti kysele
+    Kaikki kaukaiset asiat;
+    Paneta paras hevoises'
+    Kyytihin kylän väliksi.
+    Anna ruokia rahalla
+    Muillekkin matkustaville.
+    Pidä vaivaisten varana
+    Kala, leipä kaikin aioin;
+    Maksa palkka mestareille,
+    Rengeille rehellisesti,
+    Koska kohtuullisest' anovat;
+    Vaan jos paljon puhuvat,
+    Mahdotointa mainitsevat,
+    Suutu ja sano sinuksi.
+    Ole muorille mukava
+    Pidä perhettäs hyvänä;
+    Älä liiku liassa silmin,
+    Älä eineettä kävele,
+    Ota aina aamu-ryyppy
+    Muorin kanssa kahdakkesken;
+    Pidä kohtuutta kotona
+    Reisussa rehellisyyttä,
+    Niin et väärähän vaella,
+    Vaikka vanhaksi eläisit.
+
+            Paavali Korhoselta,
+            Rautalammin pitäjässä.
+
+
+
+
+Yksi apulaista tarvihteva ja saanut Maanmittari.
+
+Runoissa edespantu.
+
+
+Maanmittarin Salosten-pitäjässä Herra Joseph Fonténin ja Neitsy
+Brigitta Magdalena Vilanderin Hääpidoissa, vuonna 1788.
+
+    Kaikki ammatit avarat,
+    Virat vissihin usiat
+    Työtä työntävät isoa,
+    Joka aika ammuntavat;
+    Mutta muutamat enämmän
+    Kovin paljon paaduttavat.
+
+      Mikä on maita mitata
+    Laadullensa lasketella?
+    Se on kurja kulkeminen,
+    Teko varsin vaivaloinen.
+
+      Että käydä ketjun kanssa,
+    Kahletten kanssa samota,
+    Kaikki kankahat katella,
+    Kukkulatkin kuleskella,
+    Nähdä nevat oivalliset,
+    Soita sotkia pahoja,
+    Rämpiä kaikki rämehet,
+    Räähät rääsiköt peräti,
+    Korvet kontata tiheät,
+    Levät, lammikot laveat,
+    Vielä mennä merellekkin,
+    Yli vetten venytellä,
+    Kaikki panna paperille,
+    Tatroa taulun levylle,
+    Siitä työtä sikiäävi,
+    Luopuuvi kyllä lujasti,
+    Josa apua alati
+    Taitavata tarvitahan;
+    Muutoin todeksi tuloovi
+    Sanan lasku lausuttava:
+    Yhtäjällä yhden jäljet,
+    Vaikka poikelle avarat.
+
+      Jos tässä joku sanoisi
+    Kysyisi kyllä äkisti:
+    Mitäpä maan mitassa
+    Akat apua tekevät?
+    Sille tämän terävästi
+    Anna vahvan vastauksen:
+    Antavat akatkin avun
+    Miehillensä Mittareille,
+    Koska Taulun talistavat,
+    Vievät äijäinsä etehen,
+    Että siihen sirkkelinsä
+    Saavat panna, passarinsa,
+    Neulansa hyvin näpeät,
+    Kaikki kovat kopenensa,
+    Kiirehesti kirjotella,
+    Siihen kuljailla kuvia.
+    Mennessä metän sisähän,
+    Mitta-työhön työntyessä
+    Muonat mukavat mukahan,
+    Eväs-laukut laittelevat.
+    Kuka hoitas' horniaksi,
+    Pirtin lämminnä pitelis',
+    Koska konttari kotia
+    Miesi mitasta tuloovi?
+    Kuka kyrsän kypsennäisi,
+    Leivän rahille rakentas'?
+    Kuka kirnun kiikuttelis',
+    Padan tulelle panisi?
+    Kuka heilus' härkkimessä
+    Tahi kahtos' kapustata?
+    Kuka kuppia kulettas',
+    Veisi vellin syötäväksi?
+    Kuka juoksis' juotavata
+    Nopeasti noutamahan?
+    Kuka pahnoja panisi,
+    Laittas' laadulle lavoa?
+    Kuka kaihtisi kutakin
+    Alitusti askaretta?
+    Kuka kohta korjoaisi
+    Panis' paikan vaatteihisin,
+    Joista risut riidellehet
+    Ovat, osan ottanehet?
+
+      Eikö näissä nähtävästi
+    Akan tarvita apua?
+    Kyll' on iso ihtellensä
+    Kartoisansa kahtominen.
+    Työläs on asia tehdä,
+    Saada sarkoja hyviä,
+    Niihen rajoja raketa,
+    Panna paaluja välihin.
+    Kuka kaikki kahtomiset
+    Tahi monet tasaukset
+    Tässä saattaavi sanoa,
+    Yksin ylös luetella?
+    Uusi nälkä nähtävästi,
+    Jano vieläkin jalompi
+    Sitä tehdessä sikiäs',
+    Tulis' vielä vierahille.
+
+      Eipä imet ensinkänä
+    Ole outo ollenkana,
+    Että saatu Salosihin
+    Mitta-Herra mieluhinen
+    Oivan ottaavi omaksi
+    Apulaisen aikanansa.
+    Että kahto Kannuksesta,  [Yli-Kannuksen Kirkolta.]
+    Avun kelvoksen käsitti.
+
+      Eipä Herra eksynynnä,
+    Takaltunna taipalelle,
+    Polun Polvelta osasi
+    Ratki Isohon rakohon,   [Talon nimejä]
+    Josta painu pappilahan
+    Ämmän-ojalle äkey.
+
+      Kulku oli onnellinen,
+    Olkoon onni pysyvä!
+
+      Ylkä hyvin ylistetty
+    Mainittu Maan-tasaaja!
+    Tee työtä tytymällä,
+    Mittoa mielihyvällä,
+    Avun saatuas' sanotun
+    Kupehellas' kuuntelevan;
+    Avut isot aivan monet
+    Siltä sinulle tulevat.
+    Kyllä kotos' kohdallansa
+    Varsin vahvasti pitäävi,
+    Vielä sittenkin Sinua
+    Mitta-työssä tydyttäävi,
+    Josta jo olen sanonut
+    Lyhyeltä lyllyttänyt.
+
+      Morsian koko korea,
+    Auta miestäs' Mittaria
+    Taiten kaikella tavalla!
+
+    Vielä minä viimmeseksi
+    Aivan juuri ameneksi
+    Teille toivotan todella
+    (Toiset myöskin toivoittavat)
+    Ylähältä yltäkyllä
+    Hyvin kaikkea hyveä!
+
+                Henrik Achrenius.
+
+
+
+
+Mag. Carl. Meurlingille, hänen poikansa Kummilta, 1779.
+
+
+    Herra Caarle Kalajassa
+    Meidän mestari totinen!
+    Vaikka pojan ponnistella
+    Olet oikein osannut,
+    Ällös tuosta turpumahan
+    Kovin rumasti rupia.
+    Kyllä lapsi laadullinen
+    Sun on poikas' oivallinen;
+    Suokohon Suurin Tekiä,
+    Iso Luoja luvatkohon
+    Menestystä melkiätä,
+    Kaunihinta kasvantota!
+    Kyllä veljeni väleen
+    Sinä sievästi alotat;
+    Aika nähdä antakohon,
+    Juuri julki saattakohon,
+    Jos olet uros uhea,
+    Lasten taata taitavainen.
+    Ett' on kätkyt kerennynnä,
+    Kannettunna kamarihis',
+    Sinä siirry karsinahan,
+    Ole oinasten parissa,
+    Viikko viitinen esinnä,
+    Kukatiesi kuutinenni,
+    Lehti-kerput kelvolliset
+    Karsinahas' kannatuta.
+    Anna Akkasi ihanan
+    Caisan katalan levätä,
+    Tultua sinun tupahas',
+    Saksan maalta marsittua!
+    Puuro-kupit kuljetuta,
+    Talkkuna-vadit talista
+    Lähelle lepo-sioa,
+    Ämmäs' äkeän etehen,
+    Että tulis' entisellen,
+    Kostusi koko hyväksi,
+    Ulos oinahan otattas'
+    Päästäs' Pässin karsinasta.
+    Poika pieni pikaisesti
+    Kapaloista kasotkohon,
+    Jotta joutus' juoksemahan
+    Kummin tykö kulkemahan!
+
+                 Henrik Achrenius.
+
+
+
+
+
+
+
+        
+            *** END OF THE PROJECT GUTENBERG EBOOK SUOMEN KANSAN VANHOJA RUNOJA YNNÄ MYÖS NYKYISEMPIÄ LAULUJA 5 ***
+        
+
+    
+
+Updated editions will replace the previous one—the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg™ electronic works to protect the PROJECT GUTENBERG™
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for an eBook, except by following
+the terms of the trademark license, including paying royalties for use
+of the Project Gutenberg trademark. If you do not charge anything for
+copies of this eBook, complying with the trademark license is very
+easy. You may use this eBook for nearly any purpose such as creation
+of derivative works, reports, performances and research. Project
+Gutenberg eBooks may be modified and printed and given away—you may
+do practically ANYTHING in the United States with eBooks not protected
+by U.S. copyright law. Redistribution is subject to the trademark
+license, especially commercial redistribution.
+
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg™ mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase “Project
+Gutenberg”), you agree to comply with all the terms of the Full
+Project Gutenberg™ License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project Gutenberg™
+electronic works
+
+1.A. By reading or using any part of this Project Gutenberg™
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg™ electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg™ electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the person
+or entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B. “Project Gutenberg” is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg™ electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg™ electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg™
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation (“the
+Foundation” or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg™ electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg™ mission of promoting
+free access to electronic works by freely sharing Project Gutenberg™
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg™ name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg™ License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg™ work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country other than the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg™ License must appear
+prominently whenever any copy of a Project Gutenberg™ work (any work
+on which the phrase “Project Gutenberg” appears, or with which the
+phrase “Project Gutenberg” is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+    This eBook is for the use of anyone anywhere in the United States and most
+    other parts of the world at no cost and with almost no restrictions
+    whatsoever. You may copy it, give it away or re-use it under the terms
+    of the Project Gutenberg License included with this eBook or online
+    at www.gutenberg.org. If you
+    are not located in the United States, you will have to check the laws
+    of the country where you are located before using this eBook.
+  
+1.E.2. If an individual Project Gutenberg™ electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase “Project
+Gutenberg” associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg™
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg™ electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg™ License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg™
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg™.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg™ License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg™ work in a format
+other than “Plain Vanilla ASCII” or other format used in the official
+version posted on the official Project Gutenberg™ website
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original “Plain
+Vanilla ASCII” or other form. Any alternate format must include the
+full Project Gutenberg™ License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg™ works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg™ electronic works
+provided that:
+
+    • You pay a royalty fee of 20% of the gross profits you derive from
+        the use of Project Gutenberg™ works calculated using the method
+        you already use to calculate your applicable taxes. The fee is owed
+        to the owner of the Project Gutenberg™ trademark, but he has
+        agreed to donate royalties under this paragraph to the Project
+        Gutenberg Literary Archive Foundation. Royalty payments must be paid
+        within 60 days following each date on which you prepare (or are
+        legally required to prepare) your periodic tax returns. Royalty
+        payments should be clearly marked as such and sent to the Project
+        Gutenberg Literary Archive Foundation at the address specified in
+        Section 4, “Information about donations to the Project Gutenberg
+        Literary Archive Foundation.”
+    
+    • You provide a full refund of any money paid by a user who notifies
+        you in writing (or by e-mail) within 30 days of receipt that s/he
+        does not agree to the terms of the full Project Gutenberg™
+        License. You must require such a user to return or destroy all
+        copies of the works possessed in a physical medium and discontinue
+        all use of and all access to other copies of Project Gutenberg™
+        works.
+    
+    • You provide, in accordance with paragraph 1.F.3, a full refund of
+        any money paid for a work or a replacement copy, if a defect in the
+        electronic work is discovered and reported to you within 90 days of
+        receipt of the work.
+    
+    • You comply with all other terms of this agreement for free
+        distribution of Project Gutenberg™ works.
+    
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg™ electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from the Project Gutenberg Literary Archive Foundation, the manager of
+the Project Gutenberg™ trademark. Contact the Foundation as set
+forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg™ collection. Despite these efforts, Project Gutenberg™
+electronic works, and the medium on which they may be stored, may
+contain “Defects,” such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the “Right
+of Replacement or Refund” described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg™ trademark, and any other party distributing a Project
+Gutenberg™ electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you ‘AS-IS’, WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg™ electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg™
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg™ work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg™ work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg™
+
+Project Gutenberg™ is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg™’s
+goals and ensuring that the Project Gutenberg™ collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg™ and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at www.gutenberg.org.
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non-profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation’s EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state’s laws.
+
+The Foundation’s business office is located at 809 North 1500 West,
+Salt Lake City, UT 84116, (801) 596-1887. Email contact links and up
+to date contact information can be found at the Foundation’s website
+and official page at www.gutenberg.org/contact
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg™ depends upon and cannot survive without widespread
+public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine-readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular state
+visit www.gutenberg.org/donate.
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate.
+
+Section 5. General Information About Project Gutenberg™ electronic works
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg™ concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg™ eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg™ eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our website which has the main PG search
+facility: www.gutenberg.org.
+
+This website includes information about Project Gutenberg™,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
+

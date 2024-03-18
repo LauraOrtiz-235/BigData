@@ -1,0 +1,43 @@
+# Iniciar los contenedores
+docker compose up -d 
+
+# Escalar los nodos
+docker compose up --scale datanode=3 -d datanode
+
+#Entrar al ejecutor de hadoop
+docker compose run hadoop
+
+# entrar a la terminal de un nodo
+docker compose exec namenode /bin/bash
+
+# entrar a la terminal de un nodo escalado
+docker compose exec --index 2 datanode /bin/bash
+
+# compilar de nuevo la imagen
+docker compose build
+
+
+# Obtener una la ip de un contenedor
+docker inspect -f '{{range.NetworkSettings.Networks}}{{.IPAddress}}{{end}}' [container-id]
+
+
+# Detener todo
+docker compose stop
+
+#ver log de un contenedor 
+docker logs -f [container-id]
+
+#Borrar los container creados y no usados existentes
+docker container prune
+docker image prune
+
+#listar las imagenes corriendo de hadoop cluster
+docker compose ps
+
+
+hadoop fs -mkdir /user
+hadoop fs -mkdir /user/root
+hadoop fs -mkdir input     
+hadoop fs -put /data/sherlock.txt      wordcountlab1.py  
+hadoop fs -put /data/sherlock.txt input
+python3 /data/wordcountlab1.py -r hadoop --output-dir out hdfs:///user/root/input 
